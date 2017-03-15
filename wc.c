@@ -74,10 +74,7 @@ void process_file(Elektra * elektra, char * file)
 //        printf ("%c%d", get_sw_wc_show_separator(conf), lines);
 //    }
 
-//    if(!get_sw_wc_show_no_default_args(conf) || get_sw_wc_show_words(conf))
-//    {
-//        printf ("%c%d", get_sw_wc_show_separator(conf), words);
-//    }
+
 
     printf (" %s\n", file);
 }
