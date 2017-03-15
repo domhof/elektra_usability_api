@@ -79,26 +79,6 @@ void process_file(Elektra * elektra, char * file)
 //        printf ("%c%d", get_sw_wc_show_separator(conf), words);
 //    }
 
-//    if(!get_sw_wc_show_no_default_args(conf) || get_sw_wc_show_chars(conf))
-//    {
-//        printf ("%c%d", get_sw_wc_show_separator(conf), chars);
-//    }
-
-//    if(get_sw_wc_show_bytes(conf))
-//    {
-//        printf ("%c%d", get_sw_wc_show_separator(conf), bytes);
-//    }
-
-//    if(get_sw_wc_show_min_line_length(conf))
-//    {
-//        printf ("%c%d", get_sw_wc_show_separator(conf), min_line_length);
-//    }
-
-//    if(get_sw_wc_show_max_line_length(conf))
-//    {
-//        printf ("%c%d", get_sw_wc_show_separator(conf), max_line_length);
-//    }
-
     printf (" %s\n", file);
 }
 
