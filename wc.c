@@ -73,7 +73,6 @@ void process_file(Elektra * elektra, char * file)
 //    {
 //        printf ("%c%d", get_sw_wc_show_separator(conf), lines);
 //    }
-    
 
     printf (" %s\n", file);
 }
