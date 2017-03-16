@@ -3,8 +3,6 @@
 
 CMakeFiles/wc.dir/wc.c.o: ../wc.c
 CMakeFiles/wc.dir/wc.c.o: /usr/local/include/elektra/elektra.h
-CMakeFiles/wc.dir/wc.c.o: /usr/local/include/elektra/kdb.h
 CMakeFiles/wc.dir/wc.c.o: /usr/local/include/elektra/kdbconfig.h
-CMakeFiles/wc.dir/wc.c.o: /usr/local/include/elektra/kdbos.h
 CMakeFiles/wc.dir/wc.c.o: /usr/local/include/elektra/kdbtypes.h
 
